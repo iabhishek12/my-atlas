@@ -34,9 +34,9 @@ const Footers = () => {
           <div className="grid grid-two-cols">
             <div className="copyright-text">
               <p>
-                Copyright &copy; 2024, All Right Reserved
+                Copyright &copy; 2025-26, All Right Reserved
                 <NavLink to="" target="_blank">
-                 Abhishek SIngh
+                 Abhishek Singh
                 </NavLink>
               </p>
             </div>

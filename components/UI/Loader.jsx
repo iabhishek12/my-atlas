@@ -1,5 +1,6 @@
 import React from 'react'
 import "../../App.css";
+import { useState } from 'react';
 
 const Loader = () => {
   return (
@@ -9,5 +10,6 @@ const Loader = () => {
     </div>
   )
 }
+
 
 export default Loader
